@@ -34,3 +34,4 @@ Please use these codes for reference only, and **DO NOT CHEATING WITH MY CODES.*
 **[4. 1차원 배열](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/tree/main/4.%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4)</br>**
 **[5. 함수](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/tree/main/5.%20%ED%95%A8%EC%88%98)</br>**
 **[6. 문자열](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/tree/main/6.%20%EB%AC%B8%EC%9E%90%EC%97%B4)</br>**
+**[7. 기본 수학 1](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/tree/main/7.%20%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%99%201)</br>**
