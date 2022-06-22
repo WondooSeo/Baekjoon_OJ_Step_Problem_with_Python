@@ -9,8 +9,10 @@ if __name__ == '__main__':
             break
         now_count += 1
 
-    bunja = total_count - X + 1
+    fraction1 = total_count - X + 1
+    fraction2 = now_count - fraction1 + 1
+
     if now_count%2 == 1:
-        print(f'{bunja}/{now_count - bunja + 1}')
+        print(f'{fraction1}/{fraction2}')
     else:
-        print(f'{now_count - bunja + 1}/{bunja}')
+        print(f'{fraction2}/{fraction1}')
