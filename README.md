@@ -6,7 +6,6 @@
   
   <!-- [![movegreen's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=movegreen)](https://www.acmicpc.net/user/movegreen) -->
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=movegreen)](https://solved.ac/movegreen)
-
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=movegreen&theme=warm)
 
 </div>
