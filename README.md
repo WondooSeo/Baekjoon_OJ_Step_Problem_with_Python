@@ -35,3 +35,5 @@ Please use these codes for reference only, and **DO NOT CHEATING WITH MY CODES.*
 **[5. 함수](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/tree/main/5.%20%ED%95%A8%EC%88%98)</br>**
 **[6. 문자열](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/tree/main/6.%20%EB%AC%B8%EC%9E%90%EC%97%B4)</br>**
 **[7. 기본 수학 1](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/tree/main/7.%20%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%99%201)</br>**
+**[8. 기본 수학 2](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/tree/main/8.%20%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%99%202)</br>**
+**[9. 재귀](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/tree/main/9.%20%EC%9E%AC%EA%B7%80)</br>**
