@@ -38,5 +38,6 @@ Please use these codes for reference only, and **DO NOT CHEATING WITH MY CODES.*
 **[6. 문자열](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/tree/main/6.%20%EB%AC%B8%EC%9E%90%EC%97%B4)</br>**
 **[7. 기본 수학 1](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/tree/main/7.%20%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%99%201)</br>**
 **[8. 기본 수학 2](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/tree/main/8.%20%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%99%202)</br>**
-**[9. 재귀](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/tree/main/9.%20%EC%9E%AC%EA%B7%80)</br>**
-**[10. 브루트 포스](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/tree/main/10.%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%20%ED%8F%AC%EC%8A%A4)</br>**
+**[9. 정렬](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/tree/main/9.%20%EC%A0%95%EB%A0%AC)</br>**
+**[10. 재귀](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/tree/main/10.%20%EC%9E%AC%EA%B7%80)</br>**
+**[11. 브루트 포스](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/tree/main/11.%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%20%ED%8F%AC%EC%8A%A4)</br>**
