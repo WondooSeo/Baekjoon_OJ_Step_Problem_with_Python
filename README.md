@@ -15,7 +15,7 @@ This repo is for saving my Python 3 answer codes of [***Baekoon Online Judge Ste
 
 There is no (or few) comments on codes, so if you have any question on them, please use [***Issues***](https://github.com/WondooSeo/Baekjoon_OJ_Step_Problem_with_Python/issues).
 
-Please use these codes for reference only, and **DO NOT CHEATING WITH MY CODES.**
+Please use these codes for reference only, and **DO NOT CHEAT MY CODES.**
 
 **[CAUTION]** There are some overlapped problems on [***SOLVED.AC Class problem***](https://github.com/WondooSeo/SOLVED_AC_Class_Problem_with_Python).
 
