@@ -15,13 +15,10 @@ if __name__ == '__main__':
     for i in range(1, N-1):
         now_gcd = gcd(now_gcd, abs(num_list[i+1]-num_list[i]))
 
-    yaksu = set()
-    if num_list[0] > now_gcd:
-        yaksu.add(now_gcd)
+    yaksu = {now_gcd}
     for i in range(2, int(now_gcd**0.5)+1):
         if now_gcd%i == 0:
             yaksu.add(i)
-            if num_list[0] > now_gcd//i:
-                yaksu.add(now_gcd//i)
+            yaksu.add(now_gcd//i)
 
     print(*sorted(list(yaksu)))
