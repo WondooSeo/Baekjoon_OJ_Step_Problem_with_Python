@@ -6,8 +6,8 @@ def gcd(a, b):
     return a
 
 if __name__ == '__main__':
-    num_list = list()
     N = int(sys.stdin.readline().rstrip())
+    num_list = list()
     for _ in range(N):
         num_list.append(int(sys.stdin.readline().rstrip()))
     now_gcd = abs(num_list[1] - num_list[0])
