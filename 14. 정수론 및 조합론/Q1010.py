@@ -1,6 +1,6 @@
 import sys
 
-def combination(a, b):
+def combination(a, b) -> int:
     bunja, bunmo = 1, 1
     for i in range(b-a+1, b+1):
         bunja *= i
